@@ -100,6 +100,9 @@
   </distributionManagement>
 
   <properties>
+
+    <sonar.login>admin</sonar.login>
+    <sonar.password>op14092003</sonar.password>   
     <clirr.comparisonVersion>2.1.0</clirr.comparisonVersion>
     <findbugs.onlyAnalyze>org.mybatis.spring.*,org.mybatis.spring.mapper.*,org.mybatis.spring.support.*,org.mybatis.spring.transaction.*</findbugs.onlyAnalyze>
     <gcu.product>Spring</gcu.product>
